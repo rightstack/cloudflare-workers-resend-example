@@ -5,7 +5,7 @@
 ## Overview
 Cloudflare Worker 와 Resend (Email API for developers) 를 이용해서 월 3천건 (하루 1백건) 의 메일을 무료로 발송할 수 있습니다. 작은 규모의 SaaS 에서 사용하기 좋습니다.
 
-Cloudflare Worker 는 Javascript 를 지원하는 Servless Function 입니다. 24년 11월 기준으로 하루 10만건의 요청 처리를 무료로 제공합니다.
+Cloudflare Worker 는 Javascript 를 지원하는 Serverless Function 입니다. 24년 11월 기준으로 하루 10만건의 요청 처리를 무료로 제공합니다.
 
 Resend 는 개발자 친화적인 Email API 서비스를 제공합니다. 정말 간편하고 빠르게 Email 발송 서비스를 만들 수 있습니다. 하루 100개, 월 3천개의 이메일을 무료로 발송할 수 있습니다.
 
